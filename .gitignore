@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+drive-download-20240109T190904Z-001/*
+bin/*
+lib/*
+pyvenv.cfg
+.idea/*
+.DS_Store
+shape_predictor_68_face_landmarks.dat
+music.wav
